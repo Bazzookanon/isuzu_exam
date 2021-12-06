@@ -1,0 +1,53 @@
+#log-card {
+  margin: 0 auto;
+  /* Added */
+  float: none;
+  /* Added */
+  margin-bottom: 10px;
+  /* Added */
+  width: 40%;
+  border-radius: 5px;
+}
+
+#reg-card {
+  margin: 0 auto;
+  /* Added */
+  float: none;
+  /* Added */
+  margin-bottom: 10px;
+  /* Added */
+  width: 40%;
+  border-radius: 5px;
+}
+
+.container {
+  padding-top: 70px;
+}
+
+.card-header {
+  text-align: center;
+  font-weight: bold;
+  font-size: 20px;
+  /* background-color: #007BFF;*/
+  /* color: white;*/
+}
+
+#btn {
+  width: 200px;
+}
+
+#dash-card {
+  margin: 0 auto;
+  /* Added */
+  float: none;
+  /* Added */
+  margin-bottom: 10px;
+  /* Added */
+  width: 100%;
+  border-radius: 5px;
+}
+
+#dash-head {
+  background-color: #28A745;
+  color: white;
+}
