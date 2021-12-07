@@ -100,7 +100,7 @@ $errmsg = $_REQUEST['errmsg'];
         <div class="modal-body">
           <form action="../includes/task-user.php" method="post">
             <div class="form-group">
-              <label for="exampleInputEmail1">Email address</label>
+              <label for="exampleInputEmail1">Task Title</label>
               <input type="text" class="form-control" id="tasktitle" name="tasktitle" aria-describedby="emailHelp"
                 placeholder="Enter Task Title" required>
             </div>
